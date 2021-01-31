@@ -5,7 +5,7 @@ import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 function App() {
   return (
     <div className="App">
-      <h1>Shoving this directly into master</h1>
+      <h1>Welcome to my Page</h1>
       <AmplifySignOut />
     </div>
   );
